@@ -1,0 +1,18 @@
+# No external Python dependencies required
+# This project only uses Python standard library modules:
+# - argparse
+# - os
+# - sys
+# - subprocess
+# - platform
+# - pathlib
+# - csv
+# - shutil
+# - json
+# - tempfile
+# - atexit
+# - signal
+
+# External system dependencies:
+# - ffmpeg (for audio processing)
+# - ffprobe (for metadata extraction)
